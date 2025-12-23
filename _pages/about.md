@@ -1,21 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! I am Wentong Sun"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi I am Wentong Sun
-
-A data-driven personal website
+About me
 ======
+I'm Wentong Sun, a second-year master student at Department of Economics, School of Economics and Managment, Wuhan University.
 
-
-Getting started
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+My research interests lie at the intersection of Development Economics and Urban Economics. I integrate structural estimation with empirical methods, employing laboratory experiments to collect primary data that reveals causal mechanisms underlying economic behaviors.
 
-Site-wide configuration
 ------
