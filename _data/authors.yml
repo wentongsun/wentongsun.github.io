@@ -5,7 +5,7 @@ Name Name:
   uri         : "https://wentongsun.github.io/"
   email       : "sunwentong@whu.edu.cn"
   bio         : "This is the first name."
-  avatar      : "bio-photo.jpg"
+  avatar      : "/images/profile_v2.jpg"
   twitter     : "name"
   google_plus : "Name"
 
