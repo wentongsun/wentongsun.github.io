@@ -26,20 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Wentong Sun"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Economics Student"
   location         : "Wuhan"
   employer         : "Wuhan University"
   uri              : # URL
   email            : "sunwentong@whu.edu.cn" 
 
   # Academic websites
-  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
   ssrn             : # URL
   researchgate     : # URL
 
@@ -51,8 +47,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
 
   # Social media
   artstation       : # Username
