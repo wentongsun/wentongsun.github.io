@@ -12,7 +12,7 @@ layout: cv
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
-[Curriculum Vitae (pdf)](https://zhanglinqi.github.io/assets/pdf/CV_Linqi_Zhang.pdf).
+[Curriculum Vitae (pdf)](https://wentongsun.github.io/assets/pdf/CV.pdf).
 
 
 <!--[Back](./)-->
