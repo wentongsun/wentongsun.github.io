@@ -18,7 +18,7 @@ Presentations: WHU ECON Graduate Student Seminar
 ## In Progress Projects
 
 
-"Reservoirs, Risk, and Rural Output: Evidence from Mao-Era Water Conservancy Campaigns".
+"Reservoirs, Risk, and Rural Output".
 
 
 <!-- "Marijuana Tax and Product Variety". -->
