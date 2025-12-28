@@ -4,8 +4,7 @@ layout: research
 
 ## Working Papers
 
-
-["Warriors, Wells and Wealth"](https:pdf).   
+["Warriors, Wells, and Wealth"](https:.pdf) (with [Runan Wang](https://sites.google.com/view/rnwang))  
 Presentations: WHU ECON Graduate Student Seminar  
 <details>
 <summary><u>Abstract</u></summary> 
