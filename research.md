@@ -5,7 +5,7 @@ layout: research
 ## Working Papers
 
 
-["Warrior, Wells, and Wealth"](https:pdf).   
+["Warriors, Wells and Wealth"](https:pdf).   
 Presentations: WHU ECON Graduate Student Seminar  
 <details>
 <summary><u>Abstract</u></summary> 
