@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        <!-- No logo on Photography page -->
+        <p class="site-tagline">{{ site.description | default: "" }}</p>
+      </header>
+
+      <div class="topnav">
+        <a href="cv.html">CV</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="research.html">Research</a>
+        <a class="active" href="photography.html">Photography</a>
+        <a href="./">About</a>
+      </div>
+
+      <section class="photography-page">
+        {{ content }}
+      </section>
+
+      <footer>
+        {% if site.github.is_project_page %}
+        <p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
+        {% endif %}
+      </footer>
+    </div>
+
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
