@@ -1,7 +1,6 @@
 
 ---
-layout: photography
-title: Photography
+layout: research
 ---
 
 # Photography
@@ -9,7 +8,7 @@ title: Photography
 <div class="photo-grid">
   <figure>
     <img src="{{ '/assets/img/coffee.JPG' | relative_url }}" alt="Coffee">
-    <figcaption>Caption (optional)</figcaption>
+    <figcaption>Caption (coffee)</figcaption>
   </figure>
 
   <figure>
