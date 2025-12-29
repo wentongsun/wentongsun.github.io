@@ -1,6 +1,6 @@
+
 ---
 layout: photography
-title: Photography
 ---
 
 # Photography
