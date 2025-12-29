@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photography
 title: Photography
 ---
 
@@ -7,13 +7,12 @@ title: Photography
 
 <div class="photo-grid">
   <figure>
-    <img src="{{ '/assets/img/coffee.JPG' | relative_url }}" alt="Photo 1">
+    <img src="{{ '/assets/img/coffee.JPG' | relative_url }}" alt="Coffee">
     <figcaption>Caption (optional)</figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '/assets/img/teaching.JPG' | relative_url }}" alt="Photo 2">
+    <img src="{{ '/assets/img/teaching.JPG' | relative_url }}" alt="Teaching">
     <figcaption>Caption (optional)</figcaption>
   </figure>
-
 </div>
