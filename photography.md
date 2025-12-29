@@ -1,6 +1,7 @@
 
 ---
-layout: research
+layout: photography
+title: Photography
 ---
 
 # Photography
