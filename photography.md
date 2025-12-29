@@ -6,14 +6,18 @@ title: Photography
 
 # Photography
 
-<div class="photo-grid">
+<div class="gallery">
   <figure>
-    <img src="{{ '/assets/img/coffee.JPG' | relative_url }}" alt="Coffee">
-    <figcaption>Caption (coffee)</figcaption>
+    <a href="{{ '/assets/img/coffee.JPG' | relative_url }}" target="_blank" rel="noopener">
+      <img src="{{ '/assets/img/photo1.jpg' | relative_url }}" alt="Photo 1">
+    </a>
+    <figcaption>Caption (optional)</figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '/assets/img/teaching.JPG' | relative_url }}" alt="Teaching">
+    <a href="{{ '/assets/img/teaching.JPG' | relative_url }}" target="_blank" rel="noopener">
+      <img src="{{ '/assets/img/photo2.jpg' | relative_url }}" alt="Photo 2">
+    </a>
     <figcaption>Caption (optional)</figcaption>
   </figure>
 </div>
