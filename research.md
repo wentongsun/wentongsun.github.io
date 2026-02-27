@@ -5,7 +5,7 @@ layout: research
 ## Working Papers
 
 ["Warriors, Wells, and Wealth"](https:.pdf) (with [Runnan Wang](https://sites.google.com/view/rnwang), Haomin Li)  
-Presentations: WHU ECON Graduate Student Seminar  
+Presentations: WHU ECON Graduate Student Seminar, RES 2026 Annual Conference (University of Newcastle, scheduled)  
 <details>
 <summary><u>Abstract</u></summary> 
 <p> 
