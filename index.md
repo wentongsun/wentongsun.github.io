@@ -19,6 +19,7 @@ I'm Wentong Sun, a second-year master student at Department of Economics, Wuhan 
 
 My research interests lie at the intersection of Development Economics and Political Economics. I integrate structural estimation with empirical methods, employing laboratory experiments to collect primary data that reveals causal mechanisms underlying economic behaviors.
 
+My research currently focuses on Northwest China, Mongolia, and Vietnam.
 
 <!--**References:** [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) (chair), [Charles Murry](https://charliemurry.github.io), [Richard Sweeney](http://www.richard-sweeney.com)-->
 
@@ -26,6 +27,7 @@ My research interests lie at the intersection of Development Economics and Polit
 **Contact**   
   
 Email: sunwentong[at]whu.edu.cn
+
 
 
 
