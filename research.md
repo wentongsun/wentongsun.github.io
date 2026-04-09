@@ -5,7 +5,7 @@ layout: research
 ## Working Papers
 
 ["Warriors, Wells, and Wealth"](https:.pdf) (with [Runnan Wang](https://sites.google.com/view/rnwang), Haomin Li)  
-Presentations: WHU ECON Seminar, RES 2026 Annual Conference (University of Newcastle, scheduled)  
+Presentations: WHU ECON Seminar, RES 2026 Annual Conference (University of Newcastle, scheduled), 121st ASA Annual Conference (New York, scheduled)
 <details>
 <summary><u>Abstract</u></summary> 
 <p> 
@@ -14,7 +14,6 @@ Presentations: WHU ECON Seminar, RES 2026 Annual Conference (University of Newca
 <!-- [[SSRN](https://papers.ssrn.com/)]-->
 
 ---
-<!--  
 ["Departure from the Dust"](https:.pdf) (with [Yuchen Guo](https://guoyuchen53.github.io/), [Hai Hong](https://www.haihong.me/))  
 Presentations: CUHK (scheduled)  
 <details>
