@@ -14,6 +14,7 @@ Presentations: WHU ECON Seminar, RES 2026 Annual Conference (University of Newca
 <!-- [[SSRN](https://papers.ssrn.com/)]-->
 
 ---
+<!--  
 ["Departure from the Dust"](https:.pdf) (with [Yuchen Guo](https://guoyuchen53.github.io/), [Hai Hong](https://www.haihong.me/))  
 Presentations: CUHK (scheduled)  
 <details>
@@ -23,7 +24,7 @@ Presentations: CUHK (scheduled)
 </details>
 <!-- [[SSRN](https://papers.ssrn.com/)]-->
 
----
+
 ## In Progress Projects
 
 
