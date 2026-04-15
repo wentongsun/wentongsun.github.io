@@ -4,7 +4,7 @@ layout: research
 
 ## Working Papers
 
-["Warriors, Wells, and Wealth"](https:.pdf) (with [Runnan Wang](https://sites.google.com/view/rnwang), Haomin Li)  
+["Warriors, Wells, and Wealth"](https:.pdf) (with [Runnan Wang](https://sites.google.com/view/rnwang), [Haomin Li](https://hminli.github.io/))  
 Presentations: WHU ECON Seminar, RES 2026 Annual Conference (University of Newcastle, scheduled), 121st ASA Annual Conference (New York, scheduled)
 <details>
 <summary><u>Abstract</u></summary> 
