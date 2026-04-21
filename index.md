@@ -27,8 +27,6 @@ My research interests lie at the intersection of Urban Economics, Development Ec
 
 3. **Impacts of Climate Adaptation.** I study how households, firms, and governments adapt to climate change, and the distributional and long-run economic consequences of these adaptation strategies, with a particular focus on developing regions.
 
-My research currently focuses on Northwest China, Mongolia, and Vietnam.
-
 ***If you are interested in any aspect of my work, please feel free to contact me.***
 
 
