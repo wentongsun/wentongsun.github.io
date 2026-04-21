@@ -29,7 +29,7 @@ My research interests lie at the intersection of Urban Economics, Development Ec
 
 My research currently focuses on Northwest China, Mongolia, and Vietnam.
 
-If you are interested in any aspect of my work, please feel free to contact me.
+***If you are interested in any aspect of my work, please feel free to contact me.***
 
 
 <!--**References:** [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) (chair), [Charles Murry](https://charliemurry.github.io), [Richard Sweeney](http://www.richard-sweeney.com)-->
