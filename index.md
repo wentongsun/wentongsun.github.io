@@ -15,7 +15,7 @@ layout: default
 ## About
 Hello! Welcome to my website!
 
-I'm Wentong Sun, a second-year master student at Department of Economics, Wuhan University.
+I'm Wentong Sun, a master student at Department of Economics, Wuhan University.
 
 My research interests lie at the intersection of Urban Economics, Development Economics and Political Economics. 
 
