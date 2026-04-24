@@ -11,7 +11,9 @@ Presentations: WHU ECON Seminar, RES 2026 Annual Conference (University of Newca
 <p> 
 </p>
 </details>
-<img src="/assets/images/warriors-wells-wealth.jpg" alt="Warriors, Wells, and Wealth" style="max-width: 100%; height: auto; margin-top: 15px;">
+<p align="center">
+  <img src="/assets/img/warriors-wells-wealth.jpg" alt="Warriors, Wells, and Wealth" style="max-width: 70%; height: auto; margin-top: 15px;">
+</p>
 
 <!-- [[SSRN](https://papers.ssrn.com/)]-->
 <!-- 
