@@ -22,7 +22,6 @@ layout: research
 
 <div style="clear: both; height: 0; font-size: 0; line-height: 0;">&nbsp;</div>
 
-## In Progress Projects
 
 
 <!--[back](./)-->
