@@ -19,8 +19,7 @@ layout: research
 </div>
 
 
-<div style="clear: both;"></div>
-<br style="clear: both;">
+
 
 <h2 style="clear: both; padding-top: 20px;">Work in Progress</h2>
 
