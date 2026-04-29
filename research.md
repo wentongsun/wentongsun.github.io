@@ -21,9 +21,4 @@ layout: research
 
 
 
-<h2 style="clear: both; padding-top: 20px;">Work in Progress</h2>
-
-- "Declaring War on Nature"
-
-
 <!--[back](./)-->
