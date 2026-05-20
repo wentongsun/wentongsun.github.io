@@ -14,7 +14,7 @@ layout: research
 <h3 style="margin-top: 0;"><a href="https:.pdf">"Departure from the Dust"</a></h3>
 <p><b>With</b> <a href="https://guoyuchen53.github.io/">Yuchen Guo</a> and <a href="https://www.haihong.me/">Hai Hong</a></p>
  <p style="font-size: 0.9em; color: #666;"><b>Fields:</b> Urban Economics, Spatial Economics</p>
-<p style="font-size: 0.9em; color: #666;"><b>Presentations:</b> CUHK (scheduled)</p>
+<p style="font-size: 0.9em; color: #666;"><b>Presentations:</b> The 4th Summer Meeting in Urban Economics, China (scheduled)</p>
 <p style="font-size: 0.9em; color: #666;"><i>Draft available upon request</i></p>
 </div>
 
