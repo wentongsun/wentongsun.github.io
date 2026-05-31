@@ -17,13 +17,12 @@ Hello! Welcome to my website!
 
 I'm Wentong Sun, a master student at Department of Economics, Wuhan University.
 
-My research interests lie at the intersection of Urban Economics, Development Economics and Political Economics. 
+My research interests lie at the intersection of Development Economics and Political Economics. 
 
-**Currently, my research pursues three interconnected agendas:**
+**Currently, my research pursues two interconnected agendas:**
 
-1. **Behavioral Foundations of Urban Economics.** 
-2. **Determinants and Consequences of Technology Adoption.** 
-3. **Impacts of Climate Adaptation.** 
+1. **Determinants and Consequences of Technology Adoption.** 
+2. **Impacts of Climate Adaptation.** 
 
 ***If you are interested in any aspect of my work, please feel free to contact me.***
 
