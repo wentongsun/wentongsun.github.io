@@ -17,7 +17,7 @@ Hello! Welcome to my website!
 
 I'm Wentong Sun, a master student at Department of Economics, Wuhan University.
 
-My research interests lie at the intersection of Development Economics and Political Economics. 
+My research interests lie at the intersection of Development Economics and Urban Economics. 
 
 **Currently, my research pursues two interconnected agendas:**
 
