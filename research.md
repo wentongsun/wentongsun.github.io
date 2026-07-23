@@ -6,7 +6,9 @@ layout: research
 <img src="/assets/img/warriors-wells-wealth.jpg" alt="Warriors, Wells, and Wealth" width="340" align="left" style="margin-right: 20px; margin-bottom: 10px;">
 <h3 style="margin-top: 0;"><a href="https://github.com/wentongsun/wentongsun.github.io/blob/main/.pdf">"Warriors, Wells, and Wealth"</a></h3>
 <p><b>With</b> <a href="https://sites.google.com/view/rnwang">Runnan Wang</a></p>
-<p style="font-size: 0.9em; color: #666;"><b>Presentations:</b> WHU ECON Seminar, YES Chengdu (Young Economist Society, SWUFE), 2026 CES China Annual Conference (SWUFE, scheduled)</p>
+ <p style="font-size: 0.9em; color: #666;"><b>Fields:</b> Development Economics, Economic History</p>
+<p style="font-size: 0.9em; color: #666;"><b>Presentations:</b> WHU ECON Seminar, YES Chengdu (Young Economist Society, SWUFE), 2026 CES China Annual Conference (SWUFE)</p>
+ <p style="font-size: 0.9em; color: #666;"><i>Draft available upon request</i></p>
 </div>
 <div style="clear: both; height: 0; font-size: 0; line-height: 0;">&nbsp;</div>
 <div markdown="0" style="display: flow-root; margin-bottom: 40px;">
