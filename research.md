@@ -16,7 +16,7 @@ layout: research
 <h3 style="margin-top: 0;"><a href="https:.pdf">"Weathering the Dust Storms"</a></h3>
 <p><b>With</b> <a href="https://guoyuchen53.github.io/">Yuchen Guo</a> and <a href="https://www.haihong.me/">Hai Hong</a></p>
  <p style="font-size: 0.9em; color: #666;"><b>Fields:</b> Urban Economics, Spatial Economics</p>
-<p style="font-size: 0.9em; color: #666;"><b>Presentations:</b> AEA2027 (scheduled)</p>
+<p style="font-size: 0.9em; color: #666;"><b>Presentations:</b> American Economic Association (ASSA) 2027 (scheduled)</p>
 <p style="font-size: 0.9em; color: #666;"><i>Draft available upon request</i></p>
 </div>
 
