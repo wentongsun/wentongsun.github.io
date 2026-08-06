@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<!-- Portrait. To change it, overwrite assets/img/room3.jpg with a file of the
+     same name, or point this src at a different file. -->
+<img class="portrait" src="{{ "/assets/img/room3.jpg" | relative_url }}" alt="Wentong Sun">
+
 Wentong Sun is a master's student in Economics at the [Department of Economics, Wuhan University](https://en.whu.edu.cn/). His research interests lie at the intersection of **development economics** and **urban economics**.
 
 His work currently pursues two interconnected agendas: the determinants and consequences of technology adoption, and the impacts of climate adaptation.

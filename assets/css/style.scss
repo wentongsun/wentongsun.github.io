@@ -63,6 +63,7 @@ hr {
   height: 1px;
   background: var(--rule);
   margin: 56px 0;
+  clear: both;
 }
 
 /* ------------------------------------------------------------------
@@ -184,6 +185,15 @@ th { color: var(--heading); font-weight: 600; }
 
 /* Lead paragraph on the home page */
 .lead { font-size: 18px; }
+
+/* Portrait on the home page: floated left, intro text wraps around it.
+   The hr before "Recent Highlights" clears the float. */
+.portrait {
+  float: left;
+  width: 240px;
+  margin: 4px 34px 24px 0;
+  border-radius: 2px;
+}
 
 /* ------------------------------------------------------------------
    Section title, e.g. "Recent Highlights"
@@ -332,6 +342,13 @@ th { color: var(--heading); font-weight: 600; }
   .site-title { grid-column: auto; order: -1; }
 
   .content { padding-top: 56px; }
+
+  .portrait {
+    float: none;
+    display: block;
+    width: 200px;
+    margin: 0 auto 28px;
+  }
 
   .paper { flex-direction: column; gap: 18px; }
 
