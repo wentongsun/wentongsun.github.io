@@ -1,10 +1,24 @@
 title: Wentong Sun
 logo: /assets/img/room3.jpg
 tagline: ""
-description: ""
+description: "Wentong Sun is a master's student in Economics at Wuhan University, working on development and urban economics."
+url: "https://wentongsun.github.io"
 show_downloads: false
 google_analytics:
-theme: 
+theme:
+
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research.html
+  - title: Teaching
+    url: /teaching.html
+  - title: CV
+    url: /cv.html
+  - title: Photography
+    url: /photography.html
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

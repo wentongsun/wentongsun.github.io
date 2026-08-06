@@ -2,41 +2,31 @@
 layout: default
 ---
 
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
+Wentong Sun is a master's student in Economics at the [Department of Economics, Wuhan University](https://en.whu.edu.cn/). His research interests lie at the intersection of **development economics** and **urban economics**.
 
-<!-- # Header 1 -->
+His work currently pursues two interconnected agendas: the determinants and consequences of technology adoption, and the impacts of climate adaptation.
 
-<!-- ## Header 2
+If you are interested in any aspect of this work, please feel free to get in touch.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor. -->
-
-## About
-Hello! Welcome to my website!
-
-I'm Wentong Sun, a master student at Department of Economics, Wuhan University.
-
-My research interests lie at the intersection of Development Economics and Urban Economics. 
-
-**Currently, my research pursues two interconnected agendas:**
-
-1. **Determinants and Consequences of Technology Adoption.** 
-2. **Impacts of Climate Adaptation.** 
-
-***If you are interested in any aspect of my work, please feel free to contact me.***
-
-
-<!--**References:** [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel) (chair), [Charles Murry](https://charliemurry.github.io), [Richard Sweeney](http://www.richard-sweeney.com)-->
+[CV]({{ "/assets/pdf/CV.pdf" | relative_url }})
 
 ---
-**Contact**   
-  
-Email: sunwentong[at]whu.edu.cn
 
+<h2 class="section-title">Recent Highlights</h2>
 
+<!-- Each block below is one highlight. Copy a block to add a new one,
+     delete a block to remove one. Newest first. -->
 
+<div class="highlight">
+  <h3>&ldquo;Weathering the Dust Storms&rdquo; at ASSA 2027</h3>
+  <img src="{{ "/assets/img/dust.png" | relative_url }}" alt="Weathering the Dust Storms">
+  <p>Joint work with <a href="https://guoyuchen53.github.io/">Yuchen Guo</a> and <a href="https://www.haihong.me/">Hai Hong</a>, on the urban and spatial consequences of dust storms. The paper is scheduled for presentation at the American Economic Association (ASSA) meetings in 2027.</p>
+  <p><a href="{{ "/research.html" | relative_url }}">More on the research page</a></p>
+</div>
 
-
-
-
+<div class="highlight">
+  <h3>&ldquo;Warriors, Wells, and Wealth&rdquo; on the seminar circuit</h3>
+  <img src="{{ "/assets/img/warriors-wells-wealth.jpg" | relative_url }}" alt="Warriors, Wells, and Wealth">
+  <p>Joint work with <a href="https://sites.google.com/view/rnwang">Runnan Wang</a>, in development economics and economic history. Presented at the WHU Economics Seminar, YES Chengdu (Young Economist Society, SWUFE), and the 2026 CES China Annual Conference at SWUFE.</p>
+  <p><a href="{{ "/research.html" | relative_url }}">More on the research page</a></p>
+</div>
