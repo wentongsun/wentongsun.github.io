@@ -6,11 +6,13 @@ layout: default
      same name, or point this src at a different file. -->
 <img class="portrait" src="{{ "/assets/img/room3.jpg" | relative_url }}" alt="Wentong Sun">
 
-Wentong Sun is a master's student in Economics at the [Department of Economics, Wuhan University](https://en.whu.edu.cn/). His research interests lie at the intersection of **development economics** and **urban economics**.
+I am a master's student in Economics at the [Department of Economics, Wuhan University](https://en.whu.edu.cn/). My research interests lie at the intersection of **development economics** and **urban economics**.
 
-His work currently pursues two interconnected agendas: the determinants and consequences of technology adoption, and the impacts of climate adaptation.
+My work currently pursues two interconnected agendas: the determinants and consequences of technology adoption, and the impacts of climate adaptation.
 
-If you are interested in any aspect of this work, please feel free to get in touch.
+If you are interested in any aspect of my work, please feel free to get in touch.
+
+Email: sunwentong[at]whu.edu.cn
 
 [CV]({{ "/assets/pdf/CV.pdf" | relative_url }})
 
