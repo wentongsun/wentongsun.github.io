@@ -13,7 +13,7 @@ wide: true
   </figure>
 
    <figure>
-    <img src="{{ "/assets/img/tianshan.JPG" | relative_url }}" alt="">
+    <img src="{{ "/assets/img/tianshan.JPG" | relative_url }}" alt="Tianshan">
     <figcaption>Tianshan Tianchi Lake · Xinjiang Province </figcaption>
   </figure>
   
