@@ -8,6 +8,11 @@ wide: true
 
 <div class="photo-grid">
     <figure>
+    <img src="{{ "/assets/img/wugong.png" | relative_url }}" alt="wugong">
+    <figcaption>Wugong Mountain · Jiangxi Province</figcaption>
+  </figure>
+    
+    <figure>
     <img src="{{ "/assets/img/teaching.JPG" | relative_url }}" alt="Teaching">
     <figcaption>Wugong Mountain · Jiangxi Province</figcaption>
   </figure>
