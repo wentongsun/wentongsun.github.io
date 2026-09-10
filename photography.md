@@ -17,8 +17,23 @@ wide: true
     <figcaption>Wugong Mountain · Jiangxi Province</figcaption>
   </figure>
 
+    <figure>
+    <img src="{{ "/assets/img/wugong2.png" | relative_url }}" alt="wugong">
+    <figcaption>Wugong Mountain · Jiangxi Province</figcaption>
+  </figure>
+  
    <figure>
     <img src="{{ "/assets/img/tianshan.JPG" | relative_url }}" alt="Tianshan">
+    <figcaption>Tianshan Tianchi Lake · Xinjiang Province </figcaption>
+  </figure>
+
+     <figure>
+    <img src="{{ "/assets/img/tianshan2.JPG" | relative_url }}" alt="Tianshan">
+    <figcaption>Tianshan Tianchi Lake · Xinjiang Province </figcaption>
+  </figure>
+
+     <figure>
+    <img src="{{ "/assets/img/tianshan3.JPG" | relative_url }}" alt="Tianshan">
     <figcaption>Tianshan Tianchi Lake · Xinjiang Province </figcaption>
   </figure>
   
