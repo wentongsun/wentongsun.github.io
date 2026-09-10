@@ -11,6 +11,11 @@ wide: true
     <img src="{{ "/assets/img/teaching.JPG" | relative_url }}" alt="Teaching">
     <figcaption>Wugong Mountain · Jiangxi Province</figcaption>
   </figure>
+
+   <figure>
+    <img src="{{ "/assets/img/tianshan.JPG" | relative_url }}" alt="">
+    <figcaption>Tianshan Tianchi Lake · Xinjiang Province </figcaption>
+  </figure>
   
   <figure>
     <img src="{{ "/assets/img/coffee.JPG" | relative_url }}" alt="Coffee">
