@@ -38,6 +38,15 @@ wide: true
   </figure>
   
 
+ <figure>
+    <img src="{{ "/assets/img/eastlake1.png" | relative_url }}" alt="wugong">
+    <figcaption>East Lake · Wuhan City/figcaption>
+  </figure>
+
+ <figure>
+    <img src="{{ "/assets/img/lingbo.jpg" | relative_url }}" alt="wugong">
+    <figcaption>Lingbo Gate · Wuhan City</figcaption>
+  </figure>
   
   <figure>
     <img src="{{ "/assets/img/coffee.JPG" | relative_url }}" alt="Coffee">
