@@ -40,7 +40,7 @@ wide: true
 
  <figure>
     <img src="{{ "/assets/img/eastlake1.png" | relative_url }}" alt="wugong">
-    <figcaption>East Lake · Wuhan City/figcaption>
+    <figcaption>East Lake · Wuhan City</figcaption>
   </figure>
 
  <figure>
@@ -52,4 +52,5 @@ wide: true
     <img src="{{ "/assets/img/coffee.JPG" | relative_url }}" alt="Coffee">
     <figcaption>Lvyu Coffee · Wuhan City</figcaption>
   </figure>
+  
 </div>
