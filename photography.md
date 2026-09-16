@@ -5,6 +5,7 @@ wide: true
 ---
 
 # Photography
+I am a contracted photographer with [Visual China Group (VCG)](https://en.wikipedia.org/wiki/Visual_China_Group).
 
 <div class="photo-grid">
        <figure>
