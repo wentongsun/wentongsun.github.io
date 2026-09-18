@@ -29,7 +29,7 @@ wide: true
     <h3>&ldquo;Weathering the Dust Storms&rdquo;</h3>
     <p class="paper__meta"><strong>With</strong> <a href="https://guoyuchen53.github.io/">Yuchen Guo</a> and <a href="https://www.haihong.me/">Hai Hong</a></p>
     <p class="paper__meta"><strong>Fields:</strong> Urban Economics, Spatial Economics</p>
-    <p class="paper__meta"><strong>Presentations:</strong> American Economic Association (ASSA) 2027 (scheduled), 2026 SMU-Jinan Conference on Urban and Regional Economics joint with 11th WB-GWU Urbanization and Development Conference (scheduled) </p>
+    <p class="paper__meta"><strong>Presentations:</strong> American Economic Association (ASSA) 2027 (scheduled), 2026 SMU-Jinan Conference on Urban and Regional Economics joint with 11th World Bank-George Washington University’s Urbanization and Development Conference (scheduled) </p>
     <p class="paper__status">Draft available upon request</p>
   </div>
 </div>
