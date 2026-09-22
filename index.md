@@ -8,7 +8,12 @@ layout: default
 
 I am a master's student in Economics at the [Department of Economics, Wuhan University](https://en.whu.edu.cn/). My research interests lie at the intersection of **development economics** and **urban economics**. My current research focuses on Ethiopia, Mongolia, and northwestern China.
 
-Outside of research, I am a contract photographer for [Visual China Group (VCG)](https://en.wikipedia.org/wiki/Visual_China_Group) and a marathon runner. <p><a href="{{ "/photography.html" | relative_url }}">See a selection of my photography.</a></p>
+<p>
+  Outside of research, I am a contract photographer for
+  <a href="https://en.wikipedia.org/wiki/Visual_China_Group">Visual China Group (VCG)</a>
+  and a marathon runner. See a selection of my
+  <a href="{{ "/photography.html" | relative_url }}">photographs</a>.
+</p>
 
 Please feel free to get in touch.
 
