@@ -5,8 +5,7 @@ wide: true
 ---
 
 # Photography
-I am a contracted photographer with [Visual China Group (VCG)](https://en.wikipedia.org/wiki/Visual_China_Group).
-
+<!-- I am a contracted photographer with [Visual China Group (VCG)](https://en.wikipedia.org/wiki/Visual_China_Group). -->
 <div class="photo-grid">
        <figure>
     <img src="{{ "/assets/img/tianshan.JPG" | relative_url }}" alt="Tianshan">
