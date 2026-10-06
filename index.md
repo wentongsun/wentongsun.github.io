@@ -12,7 +12,7 @@ I am a master's student in Economics at the [Department of Economics, Wuhan Univ
   Outside of research, I am a contract photographer for
   <a href="https://en.wikipedia.org/wiki/Visual_China_Group">Visual China Group (VCG)</a>
   and a marathon runner. Have a look at some of my
-  <a href="{{ "/photography.html" | relative_url }}">photographs</a>.
+  <a href="{{ "/photography.html" | relative_url }}">photographs</a>!
 </p>
 
 Feel free to get in touch!
