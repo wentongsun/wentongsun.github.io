@@ -10,3 +10,4 @@ title: Teaching
 - Advanced Econometrics (Graduate course by Prof. [Runnan Wang](https://sites.google.com/view/rnwang) and [Ruichi Xiong](https://www.ruichixiong.com/)), Fall 2025
 - Game Theory and Information Economics (Undergraduate course by Prof. [Junze Sun](https://sites.google.com/view/junzesun/home)), Fall 2025
 - Econometrics (Undergraduate course by Prof. [Junze Sun](https://sites.google.com/view/junzesun/home)), Spring 2026
+- Behavioral Economics and Psychology (Undergraduate course by Prof. [Lian Xue](https://sites.google.com/site/lianxueeconomics/home)), Fall 2026
