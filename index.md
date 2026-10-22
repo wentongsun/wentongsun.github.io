@@ -19,7 +19,8 @@ Feel free to get in touch!
 
 Email: sunwentong[at]whu.edu.cn
 
-[CV]({{ "/assets/pdf/CV.pdf" | relative_url }})
+
+<!-- [CV]({{ "/assets/pdf/CV.pdf" | relative_url }}) -->
 
 ---
 
