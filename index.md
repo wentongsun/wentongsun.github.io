@@ -10,7 +10,8 @@ Welcome to my website!
 
 I am a master's student in Economics at the [Department of Economics, Wuhan University](https://en.whu.edu.cn/). I am passionate about development economics and spatial economics. My current research focuses on Ethiopia, Mongolia, and northwestern China.
 
-I spent my undergraduate years in Xinjiang, northwestern China. It was there that I first began to think about economics as it plays out in the real world, and the region still inspires most of my research, including “Weathering the Dust Storms” (accepted for presentation at ASSA 2027), “Warriors, Wells, and Wealth” (accepted for presentation at EEA 2026, RES 2026, and ASA 2026), “Go West, Young Women!”, and “Aid, Agglomeration, and Allocation”.
+
+I spent my undergraduate years in Xinjiang, northwestern China. It was there that I first began to think about economics in the real world, an invaluable experience that inspires most of my research, including “Weathering the Dust Storms” (ASSA 2027), “Warriors, Wells, and Wealth” (accepted for presentation at EEA 2026, RES 2026, and ASA 2026), “Go West, Young Women!”, and “Aid, Agglomeration, and Allocation”.
 
 <p>
   Outside of research, I am a contract photographer for
