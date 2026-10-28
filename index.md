@@ -6,7 +6,9 @@ layout: default
      same name, or point this src at a different file. -->
 <img class="portrait" src="{{ "/assets/img/room3.jpg" | relative_url }}" alt="Wentong Sun">
 
-I am a master's student in Economics at the [Department of Economics, Wuhan University](https://en.whu.edu.cn/). My research interests lie at the intersection of **development economics** and **urban economics**. My current research focuses on Ethiopia, Mongolia, and northwestern China.
+Welcome to my website!
+
+I am a master's student in Economics at the [Department of Economics, Wuhan University](https://en.whu.edu.cn/). I am passionate about development economics and spatial economics. My current research focuses on Ethiopia, Mongolia, and northwestern China.
 
 <p>
   Outside of research, I am a contract photographer for
