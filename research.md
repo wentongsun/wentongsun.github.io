@@ -28,7 +28,6 @@ wide: true
   <div class="paper__body">
     <h3>&ldquo;Weathering the Dust Storms&rdquo;</h3>
     <p class="paper__meta"><strong>With</strong> <a href="https://guoyuchen53.github.io/">Yuchen Guo</a> and <a href="https://www.haihong.me/">Hai Hong</a></p>
-<p class="paper__meta"><strong>Revise &amp; Resubmit at <em>Proceedings of the National Academy of Sciences</em></strong></p>
     <p class="paper__meta"><strong>Presentations:</strong> 2027 ASSA Annual Meeting (American Economic Association) (scheduled), 2026 SMU-Jinan Conference on Urban and Regional Economics joint with 11th World Bank-George Washington University’s Urbanization and Development Conference (scheduled) </p>
  
   </div>
